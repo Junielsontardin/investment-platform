@@ -3,6 +3,7 @@ import LOGO from './assets/logo-react.png';
 import ICON from './assets/icon-watch.svg';
 import { Counter } from './Counter';
 import Teste from './components/Teste';
+import './styles/global.scss';
 
 const App = () => {
   const name = {
