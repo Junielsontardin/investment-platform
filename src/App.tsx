@@ -2,6 +2,7 @@ import './styles.css';
 import LOGO from './assets/logo-react.png';
 import ICON from './assets/icon-watch.svg';
 import { Counter } from './Counter';
+import Teste from './components/Teste';
 
 const App = () => {
   const name = {
@@ -14,6 +15,7 @@ const App = () => {
 
   return (
     <div>
+      <Teste />
       <img
         src={LOGO}
         alt="Logo"
