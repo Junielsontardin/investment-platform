@@ -14,6 +14,10 @@ export const Counter = () => {
         if (number === string && string === str) {
           console.log(number);
         }
+
+        while (true) {
+          console.log('ALALA');
+        }
       });
     });
   });
