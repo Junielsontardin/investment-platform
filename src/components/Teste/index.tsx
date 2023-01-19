@@ -8,6 +8,7 @@ const Teste = () => {
         <option value="5" />
       </select>
       LALALAA
+      <div>QUERO VER</div>
     </div>
   );
 };
