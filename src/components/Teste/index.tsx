@@ -5,7 +5,7 @@ const Teste = () => {
   return (
     <div className={styles.teste}>
       <select>
-        <option value="1" />
+        <option value="5" />
       </select>
       LALALAA
     </div>
