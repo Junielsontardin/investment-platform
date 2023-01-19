@@ -7,7 +7,7 @@ const Teste = () => {
       <select>
         <option value="1" />
       </select>
-      LALALA
+      LALALAA
     </div>
   );
 };
