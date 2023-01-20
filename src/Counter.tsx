@@ -7,6 +7,13 @@ export const Counter = () => {
     setCount((c) => c + 1);
   };
 
+  const string1 = 'abc';
+  const stringTwo = 'cde';
+
+  if (string1 == stringTwo) {
+    console.log('LELELA');
+  }
+
   const arrayNormal = ['1', '2', '3', '4', '5', '6', '7', '8'];
   arrayNormal.forEach((number) => {
     arrayNormal.forEach((string) => {
